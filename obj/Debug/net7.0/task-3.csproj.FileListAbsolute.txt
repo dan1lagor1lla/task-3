@@ -1,0 +1,14 @@
+E:\education\ilya vasilevich\task-3\bin\Debug\net7.0\task-3.exe
+E:\education\ilya vasilevich\task-3\bin\Debug\net7.0\task-3.deps.json
+E:\education\ilya vasilevich\task-3\bin\Debug\net7.0\task-3.runtimeconfig.json
+E:\education\ilya vasilevich\task-3\bin\Debug\net7.0\task-3.dll
+E:\education\ilya vasilevich\task-3\bin\Debug\net7.0\task-3.pdb
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.GeneratedMSBuildEditorConfig.editorconfig
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.AssemblyInfoInputs.cache
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.AssemblyInfo.cs
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.csproj.CoreCompileInputs.cache
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.dll
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\refint\task-3.dll
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.pdb
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\task-3.genruntimeconfig.cache
+E:\education\ilya vasilevich\task-3\obj\Debug\net7.0\ref\task-3.dll
